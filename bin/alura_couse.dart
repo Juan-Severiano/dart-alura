@@ -1,6 +1,5 @@
 void main() {
   int age = 16;
-  double height = 1.79;
 
   var list = [];
 
